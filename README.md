@@ -21,5 +21,5 @@ Note: '**customer_segmented_fuzzy.csv**' is the final customer segmentation for 
 ## Referance Links
 
 - Video presentation: [loom](https://www.loom.com/share/6723fbe40b7c41fbbf3d006aac39d1ed?sid=c067a5f5-784b-4e20-ae31-d1f0a386e893)
-- Tableau public Dashboard: [TravelTide customer segmentation](https://public.tableau.com/app/profile/r.h1008/viz/TravelTide-CustomerSegmentation_16935260841560/TravelTide-CustomerSegmentation)
+- Tableau public Story: [TravelTide customer segmentation + Revenue Potential](https://public.tableau.com/app/profile/r.h1008/viz/TravelTide-CustomerSegmentation_16935260841560/TravelTide-CustomerSegmentation_1)
 
